@@ -1,4 +1,4 @@
-# IMDB_Sentiment_Analysis
+# Sentiment Analysis on IMDb Movie Reviews
 Based on the fundamentals of sentiment analysis, and build a logistic regression model to classify movie reviews as either positive or negative. I had used the  IMDB dataset for the purpose of this project. My goal was to use a simple logistic regression estimator from scikit-learn for document classification.
 
 
